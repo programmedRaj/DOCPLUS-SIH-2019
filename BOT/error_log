@@ -1,0 +1,2 @@
+[03-Mar-2019 09:34:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sharingofminds18/public_html/sih/docp/BOT/dbconnect.php on line 7
+[03-Mar-2019 09:38:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sharingo_sih'@'localhost' (using password: YES) in /home/sharingofminds18/public_html/sih/docp/BOT/act.php on line 10

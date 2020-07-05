@@ -1,0 +1,20 @@
+[02-Mar-2019 13:30:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sharingofminds18/public_html/sih/docp/blog/blog.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/sharingofminds18/public_html/sih/docp/blog/blog.php on line 30
+[02-Mar-2019 13:36:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sharingofminds18/public_html/sih/docp/blog/blog.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/sharingofminds18/public_html/sih/docp/blog/blog.php on line 30
+[02-Mar-2019 13:38:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sharingofminds18/public_html/sih/docp/blog/blog.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/sharingofminds18/public_html/sih/docp/blog/blog.php on line 30
+[02-Mar-2019 13:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/sharingofminds18/public_html/sih/docp/blog/blog.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/sharingofminds18/public_html/sih/docp/blog/blog.php on line 30
+[02-Mar-2019 13:40:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sharingofminds18/public_html/sih/docp/blog/index.php:1) in /home/sharingofminds18/public_html/sih/docp/blog/index.php on line 14
+[02-Mar-2019 13:41:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sharingofminds18/public_html/sih/docp/blog/index.php:1) in /home/sharingofminds18/public_html/sih/docp/blog/index.php on line 14
+[02-Mar-2019 13:41:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sharingofminds18/public_html/sih/docp/blog/index.php:1) in /home/sharingofminds18/public_html/sih/docp/blog/index.php on line 14
+[02-Mar-2019 13:46:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sharingofminds18/public_html/sih/docp/blog/index.php:1) in /home/sharingofminds18/public_html/sih/docp/blog/index.php on line 14
